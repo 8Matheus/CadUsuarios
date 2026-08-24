@@ -39,6 +39,7 @@ Aplicação web full-stack desenvolvida para gerenciamento de usuários (CRUD co
 
 
 
+<img width="667" height="602" alt="Captura de tela 2026-08-24 195921" src="https://github.com/user-attachments/assets/74817de9-d807-47cb-9ee8-39854d5ff4a8" />
 
 
 
